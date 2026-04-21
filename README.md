@@ -1,4 +1,4 @@
-Hello! This is a open source program, though please respect the basic rules of ownership (don't post this as your own work, don't feed this into AI, don't claim that it's yours when it isn't, that whole thing), this was made by [Block_Buster, A_wanderer, ZealousIdealMix] <- all of them are the same person, aka me.
+Hello! This is a open source program, for a school programming project, please respect the basic rules of ownership (don't post this as your own work, don't feed this into AI, don't claim that it's yours when it isn't, that whole thing), this was made by [Block_Buster, A_wanderer, ZealousIdealMix] <- all of them are the same person, aka me.
 
 Additional copyright:
     - Test Images:
